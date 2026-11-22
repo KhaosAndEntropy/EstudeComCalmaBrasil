@@ -14,7 +14,7 @@
   "devDependencies": {
     "prettier": "^3.10.1",
     "turbo": "^2.11.13",
-    "typescript": "^5.7.3",
+    "typescript": "^7.0.2",
     "wrangler": "4.165.0"
   },
   "pnpm": {

@@ -12,7 +12,7 @@
   "dependencies": {
     "@calmandstudy/content": "workspace:*",
     "@vitejs/plugin-react": "^6.3.0",
-    "lucide-react": "^0.468.0",
+    "lucide-react": "^1.76.0",
     "qrcode": "^1.5.4",
     "react": "19.3.1",
     "react-dom": "19.3.1",
